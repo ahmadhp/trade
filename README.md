@@ -15,10 +15,14 @@
       ```docker-compose up --build```
  2. Run without docker
       ```npm install```
+
+
       ```npm run start```
  
 **Open browser**
+
 http://localhost:3000
  
 **Tests**
+
     ```npm run test:integration```
