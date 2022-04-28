@@ -14,6 +14,7 @@
   
       ```docker-compose up --build```
  2. Run without docker
+
       ```npm install```
 
 
