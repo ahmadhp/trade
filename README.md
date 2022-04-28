@@ -30,4 +30,4 @@ http://localhost:3000
 
 **Output Screenshot**
 
-https://github.com/ahmadhp/trade/output.png
+https://github.com/ahmadhp/trade/blob/main/output.png
