@@ -27,3 +27,7 @@ http://localhost:3000
 **Tests**
 
     ```npm run test:integration```
+
+**Output Screenshot**
+
+https://github.com/ahmadhp/trade/output.png
